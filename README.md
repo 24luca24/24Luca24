@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Luca**, a passionate **Student** currently pursuing my **Master's in Software and Data Engineering** at **USI** (1st year). I’m always hungry to learn and improve my skills, so I'm constantly exploring new technologies and programming languages. I thrive in problem-solving and building innovative solutions.
+I'm **Luca**, a passionate **Student** currently pursuing my **Master's in Software and Data Engineering** at **USI** (1st year of Master). I’m always hungry to learn and improve my skills, so I'm constantly exploring new technologies and programming languages. I thrive in problem-solving and building innovative solutions.
 
 - 🔭 I’m currently working on mastering **Java**.
 - 🌱 I’m currently learning more abour **Python and JavaScript**.
