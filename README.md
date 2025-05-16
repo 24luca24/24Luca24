@@ -17,13 +17,13 @@ Here are some of the projects I've worked on:
 
 ---
 
-## Languages & Tools 🛠️
+## Languages 
 
 These are the languages and tools I’m proficient in, ranked by my experience:
 
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) **Java** –  🏆 Proficient
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB13B?style=flat-square&logo=javascript&logoColor=ffffff) **JavaScript** – 📚 Intermediate
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) **Python** – 📚 Intermediate
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB13B?style=flat-square&logo=javascript&logoColor=ffffff) **JavaScript** – 📚 Intermediate
 - ![Haskell](https://img.shields.io/badge/-Haskell-5e5086?style=flat-square&logo=haskell&logoColor=ffffff) **Haskell** – 🧑‍💻 Beginner
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff) **HTML** – 🧑‍💻 Beginner
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff) **CSS** – 🧑‍💻 Beginner
