@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-I'm **Luca**, a passionate **Student** currently pursuing my **Master's in Software and Data Engineering** at **USI** (2st year of Master). I’m always hungry to learn and improve my skills, so I'm constantly exploring new technologies and programming languages. I enjoy working in team and building innovative solutions.
+I'm **Luca**, an ex USI **Student**. I recently graduate in **Software and Data Engineering**. I’m always hungry to learn and improve my skills, so I'm constantly exploring new technologies and programming languages. I enjoy working in team and building innovative solutions.
 
 - 🔭 I’m working on mastering **Java and Python**.
 - 🧐 Curious about AI world; my curiosity translates in a master thesis regarding topics of AI-agents, RAG, Vector DB.
